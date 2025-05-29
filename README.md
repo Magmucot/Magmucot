@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Magmucot
+- 👀 I’m interested in coding on C++ and Python
+- 🌱 I’m currently learning Python and C++
