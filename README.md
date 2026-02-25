@@ -42,7 +42,7 @@ I am a developer who bridges the gap between **Machine Learning** and **Robust B
 ---
 
 ### 📊 Activity & Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magmucot)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center">
