@@ -60,3 +60,6 @@ I am a developer who bridges the gap between **Machine Learning** and **Robust B
 
 </div>
 
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
