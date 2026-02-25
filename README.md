@@ -1,50 +1,57 @@
-# Привет, я Magmucot! 👋
+# Hi there, I'm Magmucot! 👋
 
-**Python & C++ Developer | Backend & System Programming | Algorithms & Data Structures**
+**Python & C++ Developer | ML Engineer | Backend & Algorithms**
 
-Я backend-разработчик с глубоким пониманием основ. Мой путь начался с системного программирования на C++, что дало мне отличную базу в алгоритмах и структурах данных. Сейчас я применяю эти знания для создания высокопроизводительных асинхронных сервисов на Python.
-
----
-
-### 🚀 Что я делаю сейчас?
-
-- 🧠 **Алгоритмы:** Глубоко изучаю структуры данных и решаю задачи на логику (LeetCode/Codeforces).
-- ⚙️ **Системное мышление:** Использую опыт разработки на `C++` для написания оптимизированного кода на Python.
-- 🔭 **Разрабатываю:** Сложных асинхронных Telegram-ботов (`aiogram`) и перехожу к созданию масштабируемых API на `FastAPI` и `Flask`.
+I am a versatile developer with a strong foundation in **Computer Science** and **Machine Learning**. My background in **C++** allows me to write optimized code, while my experience in **Data Science** and **Backend** development enables me to build end-to-end AI-powered applications.
 
 ---
 
-### 💻 Мой стек технологий
+### 🚀 What I'm working on
+
+- 🧠 **Machine Learning:** Building models using `scikit-learn` and Gradient Boosting. Currently diving deep into `PyTorch` and `NLP`.
+- 👁️ **Computer Vision:** Experienced with `OpenCV` for image processing tasks.
+- ⚙️ **System & Backend:** Developing high-performance APIs with `FastAPI` / `Flask` and advanced Telegram bots using `aiogram`.
+- 📊 **Algorithms:** Constantly refining my problem-solving skills and understanding of complex data structures.
+
+---
+
+### 💻 Tech Stack
 
 <div align="center">
-  
-  **Языки программирования:** <br>
+
+  **Languages:** <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 
-  <br> **Знаю** <br>
-  <img src="https://img.shields.io/badge/Algorithms-F1948A?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Algorithms" />
-  <img src="https://img.shields.io/badge/Data_Structures-85C1E9?style=for-the-badge&logo=blueprint&logoColor=white" alt="Data Structures" />
+  <br> **Data Science & ML:** <br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 
-  <br> **Фреймворки и БД:** <br>
-  <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
+  <br> **Backend & Tools:** <br>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </div>
 
 ---
-### 📊 Моя GitHub Статистика
+
+### 📊 GitHub Stats
 
 <div align="center">
   
   <img src="https://streak-stats.demolab.com/?user=Magmucot&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&sideNums=C3D1D9&currStreakNum=C3D1D9&sideLabels=C3D1D9" alt="GitHub Streak" />
 
-  <br><br>
+  <br>
 
   <a href="https://github.com/Magmucot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+%26+C%2B%2B+Developer;Algorithms+%26+Data+Structures;aiogram+%E2%9D%A4%EF%B8%8F+FastAPI+%E2%9D%A4%EF%B8%8F+Flask;Constantly+improving+my+skills!" alt="Typing SVG" />
-</a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+%26+C%2B%2B+Developer;Machine+Learning+Engineer;Algorithms+%26+Data+Structures;PyTorch+%26+NLP+Explorer;Building+the+future+with+AI!" alt="Typing SVG" />
   </a>
 
 </div>
+
+---
