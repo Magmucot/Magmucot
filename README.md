@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 
-  <br> **Специализация:** <br>
+  <br> **Знаю** <br>
   <img src="https://img.shields.io/badge/Algorithms-F1948A?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Algorithms" />
   <img src="https://img.shields.io/badge/Data_Structures-85C1E9?style=for-the-badge&logo=blueprint&logoColor=white" alt="Data Structures" />
 
