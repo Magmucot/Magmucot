@@ -43,20 +43,19 @@ I am a developer who bridges the gap between **Machine Learning** and **Robust B
 
 ### 📊 Activity & Stats
 
-### 📊 Activity & Language Balance
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magmucot&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=490&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/Magmucot?base=0&plugin_languages=1&plugin_languages_ignored=html,css&plugin_languages_details=percentage&plugin_languages_sections=most-used&plugin_languages_limit=8&theme=tokyonight" alt="Language Metrics" />
 
-  <br>
+  <br><br>
 
   <img src="https://streak-stats.demolab.com/?user=Magmucot&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&sideNums=C3D1D9&currStreakNum=C3D1D9&sideLabels=C3D1D9" alt="GitHub Streak" />
 
   <br>
 
   <a href="https://github.com/Magmucot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;ML+Engineer;Algorithms+%26+Data+Structures;Python+%26+C%2B%2B+Enthusiast;Deploying+AI+to+Production!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%26+ML+Engineer;Algorithms+%26+Data+Structures;Python+%26+C%2B%2B+Expertise;Deploying+AI+to+Production!" alt="Typing SVG" />
   </a>
 
 </div>
