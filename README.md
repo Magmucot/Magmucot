@@ -1,17 +1,16 @@
 # Привет, я Magmucot! 👋
 
-**Python Backend Developer | Telegram Bots Creator | API Enthusiast**
+**Python & C++ Developer | Backend & System Programming | Algorithms & Data Structures**
 
-Я начинающий backend-разработчик, который обожает создавать полезные инструменты и автоматизировать процессы. У меня есть солидный опыт работы с Telegram-ботами, и сейчас я активно погружаюсь в мир веб-разработки и создания API.
+Я backend-разработчик с глубоким пониманием основ. Мой путь начался с системного программирования на C++, что дало мне отличную базу в алгоритмах и структурах данных. Сейчас я применяю эти знания для создания высокопроизводительных асинхронных сервисов на Python.
 
 ---
 
 ### 🚀 Что я делаю сейчас?
 
-- 🔭 **Разрабатываю:** сложную логику и крутых ботов с использованием асинхронного фреймворка `aiogram`.
-- 🌱 **Изучаю:** современные веб-фреймворки `FastAPI` для быстрых асинхронных API и `Flask` для классических веб-приложений.
-- 👯 **Открыт к:** сотрудничеству в open-source проектах, backend-разработке и созданию Telegram-ботов.
-- ⚡ **Цель:** стать крепким Middle Python Backend разработчиком и писать масштабируемый, чистый код.
+- 🧠 **Алгоритмы:** Глубоко изучаю структуры данных и решаю задачи на логику (LeetCode/Codeforces).
+- ⚙️ **Системное мышление:** Использую опыт разработки на `C++` для написания оптимизированного кода на Python.
+- 🔭 **Разрабатываю:** Сложных асинхронных Telegram-ботов (`aiogram`) и перехожу к созданию масштабируемых API на `FastAPI` и `Flask`.
 
 ---
 
@@ -19,17 +18,18 @@
 
 <div align="center">
   
-  **Языки и Базы данных:** <br>
+  **Языки программирования:** <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 
-  <br> **Фреймворки и Инструменты:** <br>
+  <br> **Специализация:** <br>
+  <img src="https://img.shields.io/badge/Algorithms-F1948A?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Data_Structures-85C1E9?style=for-the-badge&logo=blueprint&logoColor=white" alt="Data Structures" />
+
+  <br> **Фреймворки и БД:** <br>
   <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 </div>
 
@@ -43,7 +43,8 @@
   <br><br>
 
   <a href="https://github.com/Magmucot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;aiogram+%E2%9D%A4%EF%B8%8F+FastAPI+%E2%9D%A4%EF%B8%8F+Flask;Always+learning+and+coding!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+%26+C%2B%2B+Developer;Algorithms+%26+Data+Structures;aiogram+%E2%9D%A4%EF%B8%8F+FastAPI+%E2%9D%A4%EF%B8%8F+Flask;Constantly+improving+my+skills!" alt="Typing SVG" />
+</a>
   </a>
 
 </div>
