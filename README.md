@@ -34,13 +34,16 @@
 </div>
 
 ---
-
 ### 📊 Моя GitHub Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Magmucot&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magmucot&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9" alt="Top Langs" />
-</div>
+  
+  <img src="https://streak-stats.demolab.com/?user=Magmucot&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&sideNums=C3D1D9&currStreakNum=C3D1D9&sideLabels=C3D1D9" alt="GitHub Streak" />
 
----
+  <br><br>
+
+  <a href="https://github.com/Magmucot">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;aiogram+%E2%9D%A4%EF%B8%8F+FastAPI+%E2%9D%A4%EF%B8%8F+Flask;Always+learning+and+coding!" alt="Typing SVG" />
+  </a>
+
+</div>
