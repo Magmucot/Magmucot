@@ -44,9 +44,10 @@ I am a developer who bridges the gap between **Machine Learning** and **Robust B
 ### 📊 Activity & Stats
 
 
+
 <div align="center">
-  
-  <img src="https://metrics.lecoq.io/Magmucot?base=0&plugin_languages=1&plugin_languages_ignored=html,css&plugin_languages_details=percentage&plugin_languages_sections=most-used&plugin_languages_limit=8&theme=tokyonight" alt="Language Metrics" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magmucot&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&langs_count=6" alt="Top Langs" />
 
   <br><br>
 
@@ -60,6 +61,4 @@ I am a developer who bridges the gap between **Machine Learning** and **Robust B
 
 </div>
 
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
