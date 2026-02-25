@@ -1,3 +1,46 @@
-- 👋 Hi, I’m @Magmucot
-- 👀 I’m interested in coding on C++ and Python
-- 🌱 I’m currently learning Python and C++
+# Привет, я Magmucot! 👋
+
+**Python Backend Developer | Telegram Bots Creator | API Enthusiast**
+
+Я начинающий backend-разработчик, который обожает создавать полезные инструменты и автоматизировать процессы. У меня есть солидный опыт работы с Telegram-ботами, и сейчас я активно погружаюсь в мир веб-разработки и создания API.
+
+---
+
+### 🚀 Что я делаю сейчас?
+
+- 🔭 **Разрабатываю:** сложную логику и крутых ботов с использованием асинхронного фреймворка `aiogram`.
+- 🌱 **Изучаю:** современные веб-фреймворки `FastAPI` для быстрых асинхронных API и `Flask` для классических веб-приложений.
+- 👯 **Открыт к:** сотрудничеству в open-source проектах, backend-разработке и созданию Telegram-ботов.
+- ⚡ **Цель:** стать крепким Middle Python Backend разработчиком и писать масштабируемый, чистый код.
+
+---
+
+### 💻 Мой стек технологий
+
+<div align="center">
+  
+  **Языки и Базы данных:** <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+
+  <br> **Фреймворки и Инструменты:** <br>
+  <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+
+</div>
+
+---
+
+### 📊 Моя GitHub Статистика
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Magmucot&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magmucot&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9" alt="Top Langs" />
+</div>
+
+---
