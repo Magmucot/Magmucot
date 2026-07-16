@@ -9,8 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Magmucot&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Magmucot/Magmucot/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
 ---
 
